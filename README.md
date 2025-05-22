@@ -7,12 +7,6 @@ Ideal para treinar manipulação de datas e DOM no JavaScript.
 
 ---
 
-## 📸 Preview
-
-![preview da calculadora](https://i.imgur.com/Cp3Ao3u.png) <!-- Você pode substituir pelo seu próprio link de imagem, se quiser -->
-
----
-
 ## 🚀 Funcionalidades
 
 - ✨ Interface limpa e responsiva
